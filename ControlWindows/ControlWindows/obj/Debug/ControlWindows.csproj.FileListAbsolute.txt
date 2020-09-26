@@ -1,0 +1,8 @@
+E:\Visual Studio\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+E:\Visual Studio\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+E:\Visual Studio\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csprojAssemblyReference.cache
+E:\Visual Studio\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+E:\Visual Studio\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+E:\Visual Studio\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+E:\Visual Studio\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+E:\Visual Studio\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb
